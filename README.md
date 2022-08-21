@@ -1,1 +1,2 @@
-This is the test repo.
+This is the test repo to learn git.
+
